@@ -1,0 +1,23 @@
+{
+  "name": "discordservicewatcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeMustelide/discordServiceWatcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeMustelide/discordServiceWatcher/issues"
+  },
+  "homepage": "https://github.com/LeMustelide/discordServiceWatcher#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
